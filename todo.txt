@@ -1,0 +1,23 @@
+Ephys:
+X Add setup image
+X Fix labels on spines
+X Muscle labels 
+
+Connectome:
+X Add key
+
+Ephys test:
+X Change colors to anything but red and green
+
+Transition triggered av:
+- Breakout a few comparisons
+X Colors to match l/r in other figures
+
+Figure 7:
+- Add full state transition analysis (distribution of all possible states)
+- Motivate pruned transition matrix.
+
+Figure 8:
+- Summary stats on states
+- dwell times 
+- state occupancy
