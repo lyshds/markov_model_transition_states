@@ -24,17 +24,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.61904414"
-     inkscape:cx="687.92533"
-     inkscape:cy="636.18188"
+     inkscape:zoom="0.87546062"
+     inkscape:cx="534.50489"
+     inkscape:cy="261.43502"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:window-width="1823"
      inkscape:window-height="1015"
-     inkscape:window-x="203"
-     inkscape:window-y="89"
+     inkscape:window-x="254"
+     inkscape:window-y="74"
      inkscape:window-maximized="0"
      inkscape:snap-intersection-paths="true" />
   <defs
@@ -3352,6 +3352,36 @@
          y="28.799999"
          id="rect10472" />
     </clipPath>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14415"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14418"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
   </defs>
   <metadata
      id="metadata7">
@@ -11434,7 +11464,7 @@
        x="434.85806"
        y="-773.82806">
       <figurefirst:axis
-         figurefirst:name="lm_WSA_d"
+         figurefirst:name="lb2_WSAi"
          figurefirst:spinespec="" />
     </rect>
     <rect
@@ -11446,7 +11476,7 @@
        x="494.62762"
        y="-773.82806">
       <figurefirst:axis
-         figurefirst:name="lm_WSA_d"
+         figurefirst:name="liii3_WSAi"
          figurefirst:spinespec="" />
     </rect>
     <rect
@@ -11458,7 +11488,7 @@
        x="554.39722"
        y="-773.82806">
       <figurefirst:axis
-         figurefirst:name="lm_WSA_d"
+         figurefirst:name="liii1_WSAi"
          figurefirst:spinespec="" />
     </rect>
     <rect
@@ -11482,7 +11512,7 @@
        x="703.24402"
        y="-773.82806">
       <figurefirst:axis
-         figurefirst:name="lm_WSA_d"
+         figurefirst:name="li1_WSAd"
          figurefirst:spinespec="" />
     </rect>
     <rect
@@ -11494,7 +11524,7 @@
        x="763.01361"
        y="-773.82806">
       <figurefirst:axis
-         figurefirst:name="lm_WSA_d"
+         figurefirst:name="lb3_WSAd"
          figurefirst:spinespec="" />
     </rect>
     <rect
@@ -11506,7 +11536,7 @@
        x="822.7832"
        y="-773.82806">
       <figurefirst:axis
-         figurefirst:name="lm_WSA_d"
+         figurefirst:name="lhg1_WSAd"
          figurefirst:spinespec="" />
     </rect>
     <ellipse
@@ -11575,48 +11605,6 @@
       <figurefirst:spinespec
          figurefirst:spinelist="left, bottom" />
     </rect>
-    <ellipse
-       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:0.39215686;stroke:#550000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path172341-2"
-       cy="913.58374"
-       cx="298.5061"
-       rx="10.891292"
-       ry="11.419438">
-      <figurefirst:patchspec
-         figurefirst:name="lb-nu" />
-    </ellipse>
-    <ellipse
-       style="display:inline;opacity:1;fill:#00ff76;fill-opacity:0.39215686;stroke:#2ca02c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path172341-1-9-6"
-       cy="949.12244"
-       cx="298.5061"
-       rx="10.891292"
-       ry="11.419438">
-      <figurefirst:patchspec
-         figurefirst:name="rb-nu" />
-    </ellipse>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="353.82074"
-       y="916.81451"
-       id="text20742"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan20744"
-         x="353.82074"
-         y="916.81451">right turn</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="351.38107"
-       y="953.34406"
-       id="text20742-4"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan20744-8"
-         x="351.38107"
-         y="953.34406">left turn</tspan></text>
     <rect
        style="opacity:1;fill:#00e9e0;fill-opacity:0.06896554;stroke:none;stroke-width:0.44999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect20764"
@@ -11674,5 +11662,32 @@
          sodipodi:role="line"
          x="890.39587"
          y="-30.435236">Phasic</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)"
+       d="m 603.03009,-155.23862 c 67.28457,0 67.28457,0 67.28457,0 l 0.56542,0"
+       id="path14391"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 601.1462,-160.64359 0.22888,10.78258"
+       id="path14973"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 673.09358,-160.65727 0.22888,10.78258"
+       id="path14973-9"
+       inkscape:connector-curvature="0" />
+    <rect
+       height="24.445089"
+       id="rect6116-7-9-5-7-8"
+       style="display:inline;opacity:1;fill:#b3b3b3;fill-opacity:0.47058824;stroke:none;stroke-width:3.14925051;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:0.64313725"
+       width="70.815468"
+       x="599.68652"
+       y="891.07526">
+      <figurefirst:axis
+         figurefirst:name="cmap_legend" />
+      <figurefirst:spinespec
+         figurefirst:spinelist="left, bottom" />
+    </rect>
   </g>
 </svg>
