@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.87546062"
+     inkscape:zoom="2.4761766"
      inkscape:cx="534.50489"
-     inkscape:cy="261.43502"
+     inkscape:cy="1148.475"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -11664,17 +11664,17 @@
          y="-30.435236">Phasic</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)"
-       d="m 603.03009,-155.23862 c 67.28457,0 67.28457,0 67.28457,0 l 0.56542,0"
+       d="m 603.03009,-171.23862 c 67.28457,0 67.28457,0 67.28457,0 l 0.56542,0"
        id="path14391"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
-       d="m 601.1462,-160.64359 0.22888,10.78258"
+       d="m 601.1462,-176.64359 0.22888,10.78258"
        id="path14973"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
-       d="m 673.09358,-160.65727 0.22888,10.78258"
+       d="m 673.09358,-176.65727 0.22888,10.78258"
        id="path14973-9"
        inkscape:connector-curvature="0" />
     <rect
@@ -11682,8 +11682,8 @@
        id="rect6116-7-9-5-7-8"
        style="display:inline;opacity:1;fill:#b3b3b3;fill-opacity:0.47058824;stroke:none;stroke-width:3.14925051;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:0.64313725"
        width="70.815468"
-       x="599.68652"
-       y="891.07526">
+       x="601.68549"
+       y="-166.07938">
       <figurefirst:axis
          figurefirst:name="cmap_legend" />
       <figurefirst:spinespec
