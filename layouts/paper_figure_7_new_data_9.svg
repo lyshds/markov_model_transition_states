@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.61904414"
-     inkscape:cx="853.55785"
-     inkscape:cy="599.24112"
+     inkscape:cx="1459.0343"
+     inkscape:cy="220.84712"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:window-width="1851"
      inkscape:window-height="1148"
-     inkscape:window-x="69"
+     inkscape:window-x="186"
      inkscape:window-y="24"
      inkscape:window-maximized="0"
      inkscape:snap-intersection-paths="true"
@@ -12042,15 +12042,15 @@
          figurefirst:spinespec="right" />
     </rect>
     <rect
-       height="245.64874"
+       height="24.339806"
        id="rect4136-4-6-6-99"
        style="opacity:1;fill:#8acfef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:2.12657237;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        transform="matrix(0,1,-1,0,0,0)"
-       width="47.232475"
-       x="1083.4659"
-       y="-2155.1985">
+       width="140.92531"
+       x="894.46478"
+       y="-1882.1969">
       <figurefirst:axis
-         figurefirst:name="lmr_lt"
+         figurefirst:name="activity_scale_bar"
          figurefirst:spinespec="right" />
     </rect>
     <rect
@@ -16647,15 +16647,15 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.55315113px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-1090.5851"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.75984383px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-1097.7585"
          y="465.86761"
          id="text13369"
          sodipodi:linespacing="125%"
          transform="scale(0.97972201,-1.0206977)"><tspan
            sodipodi:role="line"
            id="tspan13371"
-           x="-1090.5851"
+           x="-1097.7585"
            y="465.86761">Typical straight flight</tspan></text>
     </g>
     <g
@@ -17741,6 +17741,229 @@
        y="-1828.8164">
       <figurefirst:axis
          figurefirst:name="averaged_activity_roll_ccw_dif"
+         figurefirst:spinespec="right" />
+    </rect>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-918.60315"
+       y="14.499664"
+       id="text55289"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan55291"
+         x="-918.60315"
+         y="14.499664">L wing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-958.23077"
+       y="13.539351"
+       id="text55289-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan55291-0"
+         x="-958.23077"
+         y="13.539351">R wing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="119.93686"
+       y="989.53802"
+       id="text55311"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan55313"
+         x="119.93686"
+         y="989.53802">b1 b2 b3 i1 i2 iii1 iii3 hg1 hg2 hg3 hg4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="391.70035"
+       y="962.69867"
+       id="text55311-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan55313-5"
+         x="391.70035"
+         y="962.69867">b1 b2 b3 i1 i2 iii1 iii3 hg1 hg2 hg3 hg4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="396.26938"
+       y="1039.2297"
+       id="text55311-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan55313-7"
+         x="396.26938"
+         y="1039.2297">b1 b2 b3 i1 i2 iii1 iii3 hg1 hg2 hg3 hg4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="656.70374"
+       y="959.27179"
+       id="text55311-90"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan55313-4"
+         x="656.70374"
+         y="959.27179">b1 b2 b3 i1 i2 iii1 iii3 hg1 hg2 hg3 hg4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="662.41498"
+       y="1040.3721"
+       id="text55311-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan55313-40"
+         x="662.41498"
+         y="1040.3721">b1 b2 b3 i1 i2 iii1 iii3 hg1 hg2 hg3 hg4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="923.59283"
+       y="956.55969"
+       id="text55311-8-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan55313-5-6"
+         x="923.59283"
+         y="956.55969">b1 b2 b3 i1 i2 iii1 iii3 hg1 hg2 hg3 hg4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="928.16187"
+       y="1033.0907"
+       id="text55311-9-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan55313-7-4"
+         x="928.16187"
+         y="1033.0907">b1 b2 b3 i1 i2 iii1 iii3 hg1 hg2 hg3 hg4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1188.5962"
+       y="953.13281"
+       id="text55311-90-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan55313-4-3"
+         x="1188.5962"
+         y="953.13281">b1 b2 b3 i1 i2 iii1 iii3 hg1 hg2 hg3 hg4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1194.3075"
+       y="1034.233"
+       id="text55311-7-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan55313-40-3"
+         x="1194.3075"
+         y="1034.233">b1 b2 b3 i1 i2 iii1 iii3 hg1 hg2 hg3 hg4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1456.0582"
+       y="960.8288"
+       id="text55311-8-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan55313-5-0"
+         x="1456.0582"
+         y="960.8288">b1 b2 b3 i1 i2 iii1 iii3 hg1 hg2 hg3 hg4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1460.6272"
+       y="1037.3599"
+       id="text55311-9-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan55313-7-5"
+         x="1460.6272"
+         y="1037.3599">b1 b2 b3 i1 i2 iii1 iii3 hg1 hg2 hg3 hg4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1721.0616"
+       y="957.40192"
+       id="text55311-90-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan55313-4-1"
+         x="1721.0616"
+         y="957.40192">b1 b2 b3 i1 i2 iii1 iii3 hg1 hg2 hg3 hg4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1726.7728"
+       y="1038.5022"
+       id="text55311-7-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan55313-40-0"
+         x="1726.7728"
+         y="1038.5022">b1 b2 b3 i1 i2 iii1 iii3 hg1 hg2 hg3 hg4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-920.625"
+       y="248.8826"
+       id="text55289-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan55291-08"
+         x="-919.06494"
+         y="248.8826">Avg Muscle </tspan><tspan
+         sodipodi:role="line"
+         x="-920.625"
+         y="262.9451"
+         id="tspan55467">Activity during</tspan><tspan
+         sodipodi:role="line"
+         x="-920.625"
+         y="277.0076"
+         id="tspan55494"> OL stim.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1000.2823"
+       y="243.16603"
+       id="text55289-4-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         x="-998.72223"
+         y="243.16603"
+         id="tspan55494-3">Diff in avg </tspan><tspan
+         sodipodi:role="line"
+         x="-1000.2823"
+         y="257.22852"
+         id="tspan55525">muscle activity</tspan><tspan
+         sodipodi:role="line"
+         x="-998.72223"
+         y="271.29102"
+         id="tspan55527">from stragiht </tspan><tspan
+         sodipodi:role="line"
+         x="-1000.2823"
+         y="285.35352"
+         id="tspan55529">flight.</tspan></text>
+    <rect
+       height="24.339806"
+       id="rect4136-4-6-6-99-2"
+       style="opacity:1;fill:#8acfef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:2.12657237;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0,1,-1,0,0,0)"
+       width="140.92531"
+       x="894.66821"
+       y="-1945.796">
+      <figurefirst:axis
+         figurefirst:name="diff_scale_bar"
          figurefirst:spinespec="right" />
     </rect>
   </g>
