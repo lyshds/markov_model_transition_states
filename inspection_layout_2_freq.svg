@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:figurefirst="http://flyranch.github.io/figurefirst/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="7in"
+   height="7in"
+   viewBox="0 0 630.00001 630"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="inspection_layout_2_freq.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70493511"
+     inkscape:cx="265.23532"
+     inkscape:cy="221.29466"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
+     inkscape:window-x="63"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-422.36215)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.34659505;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4195"
+       width="570.16412"
+       height="499.728"
+       x="43.342506"
+       y="497.65546">
+      <figurefirst:axis
+         figurefirst:name="time_label" />
+      <figurefirst:spinespec
+         figurefirst:spinelist="" />
+    </rect>
+    <rect
+       y="636.45996"
+       x="43.077068"
+       height="101.08353"
+       width="281.72232"
+       id="rect4136"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+      <figurefirst:axis
+         figurefirst:name="ax1" />
+      <figurefirst:spinespec
+         figurefirst:spinelist="left" />
+    </rect>
+    <rect
+       y="-866.7782"
+       x="43.077068"
+       height="101.08353"
+       width="281.72232"
+       id="rect4136-8"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(1,-1)">
+      <figurefirst:axis
+         figurefirst:name="ax2" />
+      <figurefirst:spinespec
+         figurefirst:spinelist="left" />
+    </rect>
+    <rect
+       y="636.45996"
+       x="356.00983"
+       height="101.08353"
+       width="108.90764"
+       id="rect4136-2"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:3.00000024;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+      <figurefirst:axis
+         figurefirst:name="ax1_inset" />
+      <figurefirst:spinespec
+         figurefirst:spinelist="" />
+    </rect>
+    <rect
+       y="-866.7782"
+       x="359.72549"
+       height="101.08353"
+       width="108.90764"
+       id="rect4136-8-3"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:3.00000024;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(1,-1)">
+      <figurefirst:axis
+         figurefirst:name="ax2_inset" />
+      <figurefirst:spinespec
+         figurefirst:spinelist="" />
+    </rect>
+    <rect
+       y="636.45996"
+       x="496.12793"
+       height="101.08353"
+       width="116.33897"
+       id="rect4136-2-4"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:3.00000024;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+      <figurefirst:axis
+         figurefirst:name="ax1_inset2" />
+      <figurefirst:spinespec
+         figurefirst:spinelist="" />
+    </rect>
+    <rect
+       y="-866.7782"
+       x="496.12793"
+       height="101.08353"
+       width="116.33897"
+       id="rect4136-8-3-2"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:3.00000024;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(1,-1)">
+      <figurefirst:axis
+         figurefirst:name="ax2_inset2" />
+      <figurefirst:spinespec
+         figurefirst:spinelist="" />
+    </rect>
+    <rect
+       y="501.94812"
+       x="43.077068"
+       height="101.08353"
+       width="281.72232"
+       id="rect4136-9"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+      <figurefirst:axis
+         figurefirst:name="ax0" />
+      <figurefirst:spinespec
+         figurefirst:spinelist="left" />
+    </rect>
+    <rect
+       y="501.94812"
+       x="356.00983"
+       height="101.08353"
+       width="108.90764"
+       id="rect4136-2-8"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:3.00000024;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+      <figurefirst:axis
+         figurefirst:name="ax0_inset" />
+      <figurefirst:spinespec
+         figurefirst:spinelist="" />
+    </rect>
+    <rect
+       y="501.94812"
+       x="496.12793"
+       height="101.08353"
+       width="116.33897"
+       id="rect4136-2-4-6"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:3.00000024;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+      <figurefirst:axis
+         figurefirst:name="ax0_inset2" />
+      <figurefirst:spinespec
+         figurefirst:spinelist="" />
+    </rect>
+    <image
+       y="893.0282"
+       x="39.799377"
+       id="image67"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATAAAABwCAYAAACZ1CwrAAAABHNCSVQICAgIfAhkiAAAAeRJREFU
+eJzt17GJAmEURtHfRbMtYuLpYLoTCxKLsBQjAysQ3GzRRBaDHS6ck73siy68zRjjMQBilmW5fq09
+AuBTAgZkbZ+Pw+EwpmlaaQrAe6fTaRyPx9/7JWDTNI15nv99FMBfnM/nl9sLCWQJGJAlYECWgAFZ
+AgZkCRiQJWBAloABWQIGZAkYkCVgQJaAAVkCBmQJGJAlYECWgAFZAgZkCRiQJWBAloABWQIGZAkY
+kCVgQJaAAVkCBmQJGJAlYECWgAFZAgZkCRiQJWBAloABWQIGZAkYkCVgQJaAAVkCBmQJGJAlYECW
+gAFZAgZkCRiQJWBAloABWQIGZAkYkCVgQJaAAVkCBmQJGJAlYECWgAFZAgZkCRiQJWBAloABWQIG
+ZAkYkCVgQJaAAVkCBmQJGJAlYECWgAFZAgZkCRiQJWBAloABWQIGZAkYkCVgQJaAAVkCBmQJGJAl
+YECWgAFZAgZkCRiQJWBAloABWQIGZAkYkCVgQJaAAVkCBmQJGJAlYECWgAFZAgZkCRiQJWBAloAB
+WQIGZAkYkCVgQJaAAVkCBmQJGJAlYECWgAFZAgZkCRiQtX0+LpfL2O12a20BeOt2u73cmzHGY50p
+AJ9bluXqhQSyBAzI2uz3+++1RwB84P4D7ocXQwaMvpoAAAAASUVORK5CYII=
+"
+       preserveAspectRatio="none"
+       height="105"
+       width="285"
+       figurefirst:name="axis3">
+      <figurefirst:axis
+         figurefirst:name="ax3" />
+      <figurefirst:spinespec
+         figurefirst:spinelist="left, bottom" />
+    </image>
+    <image
+       y="892.92432"
+       x="358.68179"
+       id="image87"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABwCAYAAADVN7S/AAAABHNCSVQICAgIfAhkiAAAAXJJREFU
+eJzt1DFqAmEURtHfoNhkEVO7LHehlbiNbG/cg9gkXXB6deByTve6Dy68zRjjd5B0PB5/vtYewXsJ
+HLd9Pq7X65imaaUpvMLpdBq32+3/XgSepmkcDoePj+J19vv94vai4wSOEzhO4DiB4wSOEzhO4DiB
+4wSOEzhO4DiB4wSOEzhO4DiB4wSOEzhO4DiB4wSOEzhO4DiB4wSOEzhO4DiB4wSOEzhO4DiB4wSO
+EzhO4DiB4wSOEzhO4DiB4wSOEzhO4DiB4wSOEzhO4DiB4wSOEzhO4DiB4wSOEzhO4DiB4wSOEzhO
+4DiB4wSOEzhO4DiB4wSOEzhO4DiB4wSOEzhO4DiB4wSOEzhO4DiB4wSOEzhO4DiB4wSOEzhO4DiB
+4wSOEzhO4DiB4wSOEzhO4DiB4wSOEzhO4DiB4wSOEzhO4DiB4wSO2z4f8zyP3W631hZe4PF4LO5F
+4PP5/NExvJ8XHSdw3OZyuXyvPYK3uf8B9A4UNXHA+VEAAAAASUVORK5CYII=
+"
+       preserveAspectRatio="none"
+       height="105"
+       width="112.5">
+      <figurefirst:axis
+         figurefirst:name="ax3_inset" />
+      <figurefirst:spinespec
+         figurefirst:spinelist="bottom" />
+    </image>
+    <image
+       y="892.38342"
+       x="493.50665"
+       id="image107"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAABwCAYAAADWrHjSAAAABHNCSVQICAgIfAhkiAAAAXxJREFU
+eJzt1aFxAlEUhtFHAJciVtMZggZQzNZKA5g4JnEZtoF94jvHXfeLb+Yexhi/g6Tr9bp+zR7BXAKI
+O30e67qOZVkmTWEPt9ttvF6v/3sTwLIs43K57D6K/RyPx83tBcQJIE4AcQKIE0CcAOIEECeAOAHE
+CSBOAHECiBNAnADiBBAngDgBxAkgTgBxAogTQJwA4gQQJ4A4AcQJIE4AcQKIE0CcAOIEECeAOAHE
+CSBOAHECiBNAnADiBBAngDgBxAkgTgBxAogTQJwA4gQQJ4A4AcQJIE4AcQKIE0CcAOIEECeAOAHE
+CSBOAHECiBNAnADiBBAngDgBxAkgTgBxAogTQJwA4gQQJ4A4AcQJIE4AcQKIE0CcAOIEECeAOAHE
+CSBOAHECiBNAnADiBBAngDgBxAkgTgBxAogTQJwA4gQQJ4A4AcQJIE4AcQKIE0CcAOJOn8fz+Rzn
+83nWFnbwfr839yaA+/2+6xjm8wLiBBB3eDwe37NHMM3PH4m3FCySf0tBAAAAAElFTkSuQmCC
+"
+       preserveAspectRatio="none"
+       height="105"
+       width="120">
+      <figurefirst:axis
+         figurefirst:name="ax3_inset2" />
+      <figruefirst:spinespec
+         figurefirst:spinelist="bottom" />
+    </image>
+  </g>
+</svg>
